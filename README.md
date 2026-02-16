@@ -31,7 +31,7 @@ Technical SEO with SEMrush, geo-targeting strategies, and data-driven insights u
 
 ## 🌍 Featured Production Systems
 
-• inspiringtrip.com — AI-powered travel intelligence platform  
+• https://inspiringtrip.com — AI-powered travel intelligence platform  
 • governedagentic.com — Enterprise AI governance framework  
 • governingagents.com — Multi-agent orchestration system  
 • edureft.com — Adaptive learning technology platform  
