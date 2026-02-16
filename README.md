@@ -20,4 +20,4 @@ Full-Stack Development: Modern web frameworks, API design, database architecture
 Security & Compliance: AWS security services, encryption (KMS), identity management (Cognito, IAM), compliance frameworks
 Analytics & Optimization: SEMrush, Google Analytics, performance monitoring, A/B testing, conversion optimization
 
-Building tomorrow's intelligent infrastructure with today's proven technologies
+Building tomorrow's intelligent infrastructure with today's proven technologies.
