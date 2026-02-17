@@ -7,7 +7,16 @@ I design and deploy production-grade systems that combine intelligent automation
 
 ---
 
+
+## 🌍 Featured Production Systems
+
+• https://inspiringtrip.com — AI-powered travel intelligence platform  
+• https://governedagentic.com — Enterprise AI governance framework  
+• https://governingagents.com — Multi-agent orchestration system  
+• https://edurift.com — Adaptive learning technology platform 
 ## 🚀 Core Capabilities
+
+---
 
 ### 🏗 End-to-End Architecture
 Scalable multi-tenant AI applications — from infrastructure design to production deployment.
@@ -25,16 +34,7 @@ Encryption, identity management, least-privilege IAM, governance frameworks, and
 CI/CD pipelines, Infrastructure as Code, monitoring, zero-downtime deployments.
 
 ### 📊 SEO, GEO & Analytics
-Technical SEO with SEMrush, geo-targeting strategies, and data-driven insights using Google Analytics.
-
----
-
-## 🌍 Featured Production Systems
-
-• https://inspiringtrip.com — AI-powered travel intelligence platform  
-• https://governedagentic.com — Enterprise AI governance framework  
-• https://governingagents.com — Multi-agent orchestration system  
-• https://edurift.com — Adaptive learning technology platform  
+Technical SEO with SEMrush, geo-targeting strategies, and data-driven insights using Google Analytics. 
 
 ---
 
