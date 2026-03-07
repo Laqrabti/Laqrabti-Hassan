@@ -1,12 +1,3 @@
-Hassan — Cloud Solutions Architect & AI Engineer
-
-Gemini said
-This is an incredible foundation, but you are right—the original draft reads a bit like a standard corporate resume. It doesn't quite capture the elegance and raw horsepower of what you are actually building.
-
-Since you are engineering platforms that combine heavy AWS infrastructure (EKS, WAF, CloudTrail) with high-end, Apple-tier user experiences (Next.js, GSAP) and complex AI orchestration, your GitHub profile should reflect that exact duality: you build systems that are bulletproof on the backend and beautiful on the frontend.
-
-Here is a reimagined, highly cohesive alternative. It extracts the architectural complexity of platforms like InspiringTrip and weaves it into your personal brand.
-
 👋 Hassan — Cloud Solutions Architect & AI Engineer
 ☁️ AWS EKS • 🤖 Multi-Agent Orchestration • ⚡ High-Fidelity UI
 I architect digital ecosystems. I specialize in designing and deploying high-availability, multi-tenant SaaS platforms where enterprise-grade infrastructure meets flawless, Apple-tier user experiences.
