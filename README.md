@@ -1,5 +1,7 @@
 👋 Hassan — Cloud Solutions Architect & AI Engineer
+
 ☁️ AWS EKS • 🤖 Multi-Agent Orchestration • ⚡ High-Fidelity UI
+
 I architect digital ecosystems. I specialize in designing and deploying high-availability, multi-tenant SaaS platforms where enterprise-grade infrastructure meets flawless, Apple-tier user experiences.
 
 From provisioning hybrid cloud environments with Terraform to engineering autonomous AI agents that perform complex time-math and data aggregation, I bridge the gap between heavy backend logic and fluid, GSAP-driven interfaces.
@@ -7,13 +9,13 @@ From provisioning hybrid cloud environments with Terraform to engineering autono
 🌍 Production Platforms & SaaS Solutions
 I design systems using a blend of Clean Architecture and Microservices to ensure zero-downtime deployments and massive scalability. Here is what that looks like in production:
 
-InspiringTrip.com — A massive, multi-tenant travel intelligence SaaS. Built on AWS EKS and Next.js, it aggregates 20+ APIs (Amadeus, Booking.com) in real-time. It features an authentic AI agent that optimizes complex customer roadmaps, wrapped in a highly responsive, GSAP-animated interface.
+https://InspiringTrip.com — A massive, multi-tenant travel intelligence SaaS. Built on AWS EKS and Next.js, it aggregates 20+ APIs (Amadeus, Booking.com) in real-time. It features an authentic AI agent that optimizes complex customer roadmaps, wrapped in a highly responsive, GSAP-animated interface.
 
-GovernedAgentic.com — An enterprise AI governance framework designed to audit, secure, and monitor intelligent workflows.
+https://GovernedAgentic.com — An enterprise AI governance framework designed to audit, secure, and monitor intelligent workflows.
 
-GoverningAgents.com — A multi-agent orchestration system built for specification-driven LLM operations and intelligent automation at scale.
+https://GoverningAgents.com — A multi-agent orchestration system built for specification-driven LLM operations and intelligent automation at scale.
 
-EduRift.com — An adaptive learning technology platform leveraging advanced data structures and AI-driven personalization.
+https://EduRift.com — An adaptive learning technology platform leveraging advanced data structures and AI-driven personalization.
 
 🚀 Core Engineering Pillars
 🏗️ Infrastructure & Automation (The Backbone)
