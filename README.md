@@ -1,4 +1,4 @@
-👋 Hassan — Cloud Solutions Architect & AI Engineer
+👋 Hassan — AI Solutions Architect & DevSecOps Engineer
 
 ☁️ AWS EKS • 🤖 Multi-Agent Orchestration • ⚡ High-Fidelity UI
 
