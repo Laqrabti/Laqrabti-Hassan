@@ -13,9 +13,9 @@ https://InspiringTrip.com — A massive, multi-tenant travel intelligence SaaS. 
 
 https://GovernedAgentic.com — An enterprise AI governance framework designed to audit, secure, and monitor intelligent workflows.
 
-https://GoverningAgents.com — A multi-agent orchestration system built for specification-driven LLM operations and intelligent automation at scale.
-
 https://EduRift.com — An adaptive learning technology platform leveraging advanced data structures and AI-driven personalization.
+
+https://GoverningAgents.com — A multi-agent orchestration system built for specification-driven LLM operations and intelligent automation at scale.
 
 🚀 Core Engineering Pillars
 🏗️ Infrastructure & Automation (The Backbone)
