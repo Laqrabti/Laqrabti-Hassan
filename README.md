@@ -1,31 +1,27 @@
-👋 Hassan — AI Solutions Architect & DevSecOps Engineer
+AI Solutions Architect & DevSecOps Engineer
 
-☁️ AWS EKS • 🤖 Multi-Agent Orchestration • ⚡ High-Fidelity UI
+I architect and deploy high-availability, multi-tenant SaaS ecosystems where enterprise-grade infrastructure meets high-fidelity user experiences. My engineering focus is on transitioning traditional web applications into autonomous, agentic platforms secured by strict Zero-Trust protocols and distributed microservices.
 
-I architect digital ecosystems. I specialize in designing and deploying high-availability, multi-tenant SaaS platforms where enterprise-grade infrastructure meets flawless, Apple-tier user experiences.
+By bridging the gap between heavy backend logic and fluid, responsive interfaces, I design systems that are not only scalable and secure but also optimized for the modern era of Generative Engine Optimization (GEO).
 
-From provisioning hybrid cloud environments with Terraform to engineering autonomous AI agents that perform complex time-math and data aggregation, I bridge the gap between heavy backend logic and fluid, GSAP-driven interfaces.
+Featured Production Platforms
+I utilize Clean Architecture and service mesh patterns to ensure zero-downtime deployments, strict data sovereignty, and massive scalability.
 
-🌍 Production Platforms & SaaS Solutions
-I design systems using a blend of Clean Architecture and Microservices to ensure zero-downtime deployments and massive scalability. Here is what that looks like in production:
+InspiringTrip.com
+An enterprise travel intelligence platform. I engineered a polyglot microservices backend (Go/Python) to aggregate and execute complex workflows across global providers like Amadeus and Booking.com. The infrastructure utilizes a multi-cloud strategy (AWS EKS and Azure AKS) to guarantee isolation for B2B clients. The frontend is built on Next.js 14, leveraging a strictly decoupled domain layer and highly optimized GSAP/Three.js rendering for a premium UI.
 
-https://InspiringTrip.com — A massive, multi-tenant travel intelligence SaaS. Built on AWS EKS and Next.js, it aggregates 20+ APIs (Amadeus, Booking.com) in real-time. It features an authentic AI agent that optimizes complex customer roadmaps, wrapped in a highly responsive, GSAP-animated interface.
+GovernedAgentic.com & GoverningAgents.com
+An enterprise AI governance framework and LLM Gateway designed for autonomous operations and EU AI Act compliance. These systems enforce strict JSON schema validation and sandboxed execution to shield against semantic prompt injections and rogue AI actions.
 
-https://GovernedAgentic.com — An enterprise AI governance framework designed to audit, secure, and monitor intelligent workflows.
+EduRift.com
+An adaptive learning technology platform leveraging advanced data structures and RAG architectures to map and optimize personalized educational pathways.
 
-https://EduRift.com — An adaptive learning technology platform leveraging advanced data structures and AI-driven personalization.
+Core Engineering Pillars
+Zero-Trust Security & DevSecOps
+Security is integrated at the network layer using a "nesting doll" encryption model. My architectures prioritize defense-in-depth: dropping malicious payloads at the edge via Cloudflare API Shield, enforcing Strict mTLS 1.3 using Cloudflare Origin Pulls mapped to AWS ALB Trust Stores, and maintaining internal isolation through Istio Service Mesh. I automate these environments using Terraform and GitHub Actions to ensure deterministic, version-controlled infrastructure.
 
-https://GoverningAgents.com — A multi-agent orchestration system built for specification-driven LLM operations and intelligent automation at scale.
+Polyglot Microservices & Event-Driven Design
+I choose the optimal tool for the specific domain. I utilize Go for high-concurrency services (Booking, Payments, Sync), Python for AI/ML and analytics, and TypeScript for search and notification layers. These services communicate via an asynchronous, event-driven backbone (Kafka/Redpanda) with polyglot persistence across Postgres, MongoDB, Elasticsearch, and Redis.
 
-🚀 Core Engineering Pillars
-🏗️ Infrastructure & Automation (The Backbone)
-I treat infrastructure as a living product. Using Terraform, Ansible, and GitHub Actions, I build self-healing, scalable environments on AWS (EKS, EC2, S3) with strict CI/CD pipelines.
-
-🤖 Applied AI & Logic Orchestration (The Brain)
-Beyond simple wrappers, I build authentic, context-aware AI agents capable of complex filtering, deep data comparisons, RAG architectures, and multi-step optimization processes.
-
-🛡️ Enterprise Security & Governance (The Shield)
-Secure by default. My architectures incorporate AWS WAF, CloudTrail for auditing, least-privilege IAM, strict multi-tenant data isolation, and robust edge security via Cloudflare.
-
-🎨 Fluid Frontend Architecture (The Face)
-A powerful backend deserves a beautiful frontend. I build pixel-perfect, highly customized interfaces using Next.js, Tailwind CSS, and GSAP to create smooth, Apple-inspired navigation and interactions.
+Clean Architecture & Scalable Frontend
+I implement a hybrid architecture in Next.js that separates the presentation layer from the core business logic. By utilizing a structured core/ directory for entities and use cases, the application remains testable and independent of external frameworks. This is paired with an elite frontend stack—Tailwind CSS, GSAP, and Three.js—to deliver fluid, Apple-tier interactions without compromising performance.
