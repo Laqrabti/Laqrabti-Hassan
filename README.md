@@ -1,27 +1,50 @@
-AI Solutions Architect & DevSecOps Engineer
+## AI Solutions Architect & DevSecOps Engineer
 
-I architect and deploy high-availability, multi-tenant SaaS ecosystems where enterprise-grade infrastructure meets high-fidelity user experiences. My engineering focus is on transitioning traditional web applications into autonomous, agentic platforms secured by strict Zero-Trust protocols and distributed microservices.
+> Zero-Trust Infrastructure · Agentic Systems · High-Fidelity Interfaces
 
-By bridging the gap between heavy backend logic and fluid, responsive interfaces, I design systems that are not only scalable and secure but also optimized for the modern era of Generative Engine Optimization (GEO).
+I architect and deploy high-availability, multi-tenant SaaS ecosystems where enterprise-grade infrastructure meets precision-engineered user experiences. My engineering focus is the transition of traditional web applications into autonomous, agentic platforms — governed by strict Zero-Trust protocols and distributed across event-driven microservice meshes.
 
-Featured Production Platforms
-I utilize Clean Architecture and service mesh patterns to ensure zero-downtime deployments, strict data sovereignty, and massive scalability.
+I bridge the gap between heavy backend logic and fluid, responsive interfaces — designing systems that are scalable, secure, and optimised for the modern era of Generative Engine Optimization (GEO).
 
-https://InspiringTrip.com
-An enterprise travel intelligence platform. I engineered a polyglot microservices backend (Go/Python) to aggregate and execute complex workflows across global providers like Amadeus and Booking.com. The infrastructure utilizes a multi-cloud strategy (AWS EKS and Azure AKS) to guarantee isolation for B2B clients. The frontend is built on Next.js 14, leveraging a strictly decoupled domain layer and highly optimized GSAP/Three.js rendering for a premium UI.
+---
 
-https://GovernedAgentic.com & https://GoverningAgents.com
-An enterprise AI governance framework and LLM Gateway designed for autonomous operations and EU AI Act compliance. These systems enforce strict JSON schema validation and sandboxed execution to shield against semantic prompt injections and rogue AI actions.
+### Production Platforms
 
-https://EduRift.com
-An adaptive learning technology platform leveraging advanced data structures and RAG architectures to map and optimize personalized educational pathways.
+All platforms are architected using Clean Architecture and service mesh patterns — ensuring zero-downtime deployments, strict data sovereignty, and horizontal scalability at enterprise scale.
 
-Core Engineering Pillars
-Zero-Trust Security & DevSecOps
-Security is integrated at the network layer using a "nesting doll" encryption model. My architectures prioritize defense-in-depth: dropping malicious payloads at the edge via Cloudflare API Shield, enforcing Strict mTLS 1.3 using Cloudflare Origin Pulls mapped to AWS ALB Trust Stores, and maintaining internal isolation through Istio Service Mesh. I automate these environments using Terraform and GitHub Actions to ensure deterministic, version-controlled infrastructure.
+**[InspiringTrip.com](https://InspiringTrip.com)** — Enterprise Travel Intelligence
+- Polyglot microservices backend (Go / Python) aggregating complex workflows across Amadeus and Booking.com
+- Multi-cloud strategy — AWS EKS and Azure AKS — for strict B2B client isolation and regional failover
+- Next.js 14 frontend with a strictly decoupled domain layer and high-performance GSAP / Three.js rendering
 
-Polyglot Microservices & Event-Driven Design
-I choose the optimal tool for the specific domain. I utilize Go for high-concurrency services (Booking, Payments, Sync), Python for AI/ML and analytics, and TypeScript for search and notification layers. These services communicate via an asynchronous, event-driven backbone (Kafka/Redpanda) with polyglot persistence across Postgres, MongoDB, Elasticsearch, and Redis.
+**[GovernedAgentic.com](https://GovernedAgentic.com) & [GoverningAgents.com](https://GoverningAgents.com)** — AI Governance & LLM Gateway
+- Enterprise AI governance framework engineered for autonomous operations and EU AI Act compliance
+- Strict JSON schema validation and sandboxed execution environments to neutralise semantic prompt injections and rogue agent actions
+- LLM Gateway with policy-based routing, rate limiting, and full audit logging across model providers
 
-Clean Architecture & Scalable Frontend
-I implement a hybrid architecture in Next.js that separates the presentation layer from the core business logic. By utilizing a structured core/ directory for entities and use cases, the application remains testable and independent of external frameworks. This is paired with an elite frontend stack—Tailwind CSS, GSAP, and Three.js—to deliver fluid, Apple-tier interactions without compromising performance.
+**[EduRift.com](https://EduRift.com)** — Adaptive Learning Technology
+- Advanced data structures and Retrieval-Augmented Generation (RAG) architectures powering personalised educational pathways
+- Dynamic learner-state mapping with adaptive content sequencing and real-time knowledge-gap analysis
+
+---
+
+### Core Engineering Pillars
+
+**Zero-Trust Security & DevSecOps**
+- Defense-in-depth architecture using a "nesting doll" encryption model — malicious payloads dropped at the edge via Cloudflare API Shield before reaching application layers
+- Strict mTLS 1.3 enforced through Cloudflare Origin Pulls mapped to AWS ALB Trust Stores, with internal isolation via Istio Service Mesh
+- Infrastructure fully automated with Terraform and GitHub Actions — deterministic, version-controlled, and auditable across all environments
+
+**Polyglot Microservices & Event-Driven Design**
+- Go for high-concurrency services (Booking, Payments, Sync) — Python for AI/ML and analytics — TypeScript for search and notification layers
+- Asynchronous event-driven backbone via Kafka / Redpanda decoupling all inter-service communication
+- Polyglot persistence strategy: Postgres, MongoDB, Elasticsearch, and Redis — each chosen for the access pattern it best serves
+
+**Clean Architecture & Scalable Frontend**
+- Hybrid Next.js architecture with a structured `core/` directory separating entities and use cases from the presentation layer — testable and framework-independent by design
+- Elite frontend stack: Tailwind CSS, GSAP, and Three.js delivering fluid, Apple-tier interactions without performance compromise
+- Service mesh patterns ensuring zero-downtime deployments and strict data sovereignty at every layer of the stack
+
+---
+
+`Go` `Python` `TypeScript` `Next.js 14` `AWS EKS` `Azure AKS` `Terraform` `Kafka` `Istio` `Cloudflare` `Postgres` `MongoDB` `Elasticsearch` `Redis` `GSAP` `Three.js` `RAG` `mTLS 1.3`
