@@ -7,13 +7,13 @@ By bridging the gap between heavy backend logic and fluid, responsive interfaces
 Featured Production Platforms
 I utilize Clean Architecture and service mesh patterns to ensure zero-downtime deployments, strict data sovereignty, and massive scalability.
 
-InspiringTrip.com
+https://InspiringTrip.com
 An enterprise travel intelligence platform. I engineered a polyglot microservices backend (Go/Python) to aggregate and execute complex workflows across global providers like Amadeus and Booking.com. The infrastructure utilizes a multi-cloud strategy (AWS EKS and Azure AKS) to guarantee isolation for B2B clients. The frontend is built on Next.js 14, leveraging a strictly decoupled domain layer and highly optimized GSAP/Three.js rendering for a premium UI.
 
-GovernedAgentic.com & GoverningAgents.com
+https://GovernedAgentic.com & https://GoverningAgents.com
 An enterprise AI governance framework and LLM Gateway designed for autonomous operations and EU AI Act compliance. These systems enforce strict JSON schema validation and sandboxed execution to shield against semantic prompt injections and rogue AI actions.
 
-EduRift.com
+https://EduRift.com
 An adaptive learning technology platform leveraging advanced data structures and RAG architectures to map and optimize personalized educational pathways.
 
 Core Engineering Pillars
