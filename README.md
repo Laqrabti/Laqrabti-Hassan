@@ -1,51 +1,113 @@
-## AI Solutions Architect & DevSecOps Engineer
+# Hassan Laqrabti
 
-> Zero-Trust Infrastructure · Agentic Systems · High-Fidelity Interfaces
+Platform Engineer · Solutions Architect · DevSecOps  
+Building self-provisioning cloud infrastructure and governed AI systems.
 
-I architect and deploy high-availability, multi-tenant SaaS ecosystems where enterprise-grade infrastructure meets precision-engineered user experiences. My engineering focus is the transition of traditional web applications into autonomous, agentic platforms — governed by strict Zero-Trust protocols and distributed across event-driven microservice meshes.
-
-I bridge the gap between heavy backend logic and fluid, responsive interfaces — designing systems that are scalable, secure, and optimised for the modern era of Generative Engine Optimization (GEO).
-
----
-
-### Production Platforms
-
-All platforms are architected using Clean Architecture and service mesh patterns — ensuring zero-downtime deployments, strict data sovereignty, and horizontal scalability at enterprise scale.
-
-**[InspiringTrip.com](https://InspiringTrip.com)** — Enterprise Travel Intelligence
-- Polyglot microservices backend (Go / Python) aggregating complex workflows across Amadeus and Booking.com
-- Multi-cloud strategy — AWS EKS and Azure AKS — for strict B2B client isolation and regional failover
-- Next.js 14 frontend with a strictly decoupled domain layer and high-performance GSAP / Three.js rendering
-
-**[GovernedAgentic.com](https://GovernedAgentic.com) & [GoverningAgents.com](https://GoverningAgents.com)** — AI Governance & LLM Gateway
-- Enterprise AI governance framework engineered for autonomous operations and EU AI Act compliance
-- Strict JSON schema validation and sandboxed execution environments to neutralise semantic prompt injections and rogue agent actions
-- LLM Gateway with policy-based routing, rate limiting, and full audit logging across model providers
-
-**[EduRift.com](https://EduRift.com)** — Adaptive Learning Technology
-- Advanced data structures and Retrieval-Augmented Generation (RAG) architectures powering personalised educational pathways
-- Dynamic learner-state mapping with adaptive content sequencing and real-time knowledge-gap analysis
+→ agenticroam.com · inspiringtrip.com · laqrabtihassan@gmail.com
 
 ---
 
-### Core Engineering Pillars
+## What I build
 
-**Zero-Trust Security & DevSecOps**
-- Defense-in-depth architecture using a "nesting doll" encryption model — malicious payloads dropped at the edge via Cloudflare API Shield before reaching application layers
-- Strict mTLS 1.3 enforced through Cloudflare Origin Pulls mapped to AWS ALB Trust Stores, with internal isolation via Istio Service Mesh
-- Infrastructure fully automated with Terraform and GitHub Actions — deterministic, version-controlled, and auditable across all environments
+Production infrastructure that provisions itself — and AI 
+systems that operate within strict governance boundaries.
 
-**Polyglot Microservices & Event-Driven Design**
-- Go for high-concurrency services (Booking, Payments, Sync) — Python for AI/ML and analytics — TypeScript for search and notification layers
-- Asynchronous event-driven backbone via Kafka / Redpanda decoupling all inter-service communication
-- Polyglot persistence strategy: Postgres, MongoDB, Elasticsearch, and Redis — each chosen for the access pattern it best serves
+I own the full surface: Terraform modules, zero-trust service 
+mesh, secretless CI/CD, LLM gateways, and the Next.js product 
+layer on top. No handoff to a separate DevOps team, security 
+team, or frontend team.
 
-**Clean Architecture & Scalable Frontend**
-- Hybrid Next.js architecture with a structured `core/` directory separating entities and use cases from the presentation layer — testable and framework-independent by design
-- Elite frontend stack: Tailwind CSS, GSAP, and Three.js delivering fluid, Apple-tier interactions without performance compromise
-- Service mesh patterns ensuring zero-downtime deployments and strict data sovereignty at every layer of the stack
+---
 
----[Client Layer Provisioning-2026-04-16-025530.pdf](https://github.com/user-attachments/files/26769529/Client.Layer.Provisioning-2026-04-16-025530.pdf)
+## Live platforms
 
+### AgenticRoam — agenticroam.com
+Cloud infrastructure automation platform. Enter a domain, 
+choose AWS, Azure, or GCP — get a complete production stack 
+in under 5 minutes.
 
-`Go` `Python` `TypeScript` `Next.js 14` `AWS EKS` `Azure AKS` `Terraform` `Kafka` `Istio` `Cloudflare` `Postgres` `MongoDB` `Elasticsearch` `Redis` `GSAP` `Three.js` `RAG` `mTLS 1.3`
+**What I built:**
+- Modular Terraform provisioning engine — multi-cloud 
+  (AWS, Azure, GCP) with per-tenant isolation
+- Go/Bash CLI with PID-backed idempotency locks and 
+  JSON snapshot rollback — recovery under 2 minutes
+- mTLS 1.3 service mesh via Istio + SPIFFE/SPIRE with 
+  OIDC/IRSA federation — zero long-lived credentials
+- DNS ownership verification via HMAC-signed Cloudflare 
+  TXT challenges
+- Full observability: Prometheus, Grafana, distributed 
+  tracing, structured audit logs
+- SOC 2-aligned security posture out of the box
+
+`Go` `Bash` `Terraform` `Kubernetes` `Istio` `SPIFFE/SPIRE` 
+`AWS` `Azure` `GCP` `Cloudflare` `GitHub Actions` `Prometheus`
+
+---
+
+### InspiringTrip — inspiringtrip.com
+AI-powered travel platform. Two-sided marketplace: 
+travelers get AI-planned bookable trips, businesses 
+list and get matched to relevant customers automatically.
+
+**What I built:**
+- Multi-AZ VPC: ALB, ECS Fargate, RDS (PostgreSQL), 
+  ElastiCache Redis — provisioned via Terraform
+- 5-stage secretless CI/CD via GitHub Actions + OIDC
+- Governed Amazon Bedrock proxy — LLM calls isolated, 
+  inputs sanitized, API keys never client-facing
+- RAG architecture for contextual travel recommendations
+- Amadeus API — live flight search and booking
+- Google Maps, Stripe, affiliate partner integrations
+- Multi-tenant architecture for traveler and operator profiles
+- Multi-stage Docker builds — 62% image reduction
+- Zero critical CVEs since launch
+
+`Next.js 15` `FastAPI` `PostgreSQL` `Drizzle ORM` 
+`Amazon Bedrock` `ECS Fargate` `Terraform` `Amadeus API` 
+`Stripe` `Snyk` `Docker`
+
+---
+
+## Core stack
+
+| Layer | Technology |
+|---|---|
+| Cloud | AWS · Azure · GCP |
+| IaC | Terraform · Helm |
+| Orchestration | Kubernetes · ECS Fargate |
+| Security | Istio · mTLS 1.3 · SPIFFE/SPIRE · OIDC/IRSA |
+| CI/CD | GitHub Actions · Docker · Snyk |
+| AI/LLM | Amazon Bedrock · RAG · MCP proxies |
+| Backend | Go · Python · FastAPI |
+| Frontend | Next.js 15 · TypeScript |
+| Data | PostgreSQL · Redis · Drizzle ORM |
+| Observability | Prometheus · Grafana · CloudWatch |
+
+---
+
+## In progress
+
+- GovernedAgentic — enterprise AI governance layer: 
+  Bedrock Guardrails, audit trails, HITL checkpoints, 
+  EU AI Act compliance tooling
+- CKA (Certified Kubernetes Administrator)
+- AWS Certified Solutions Architect — Professional
+
+---
+
+## Certifications
+
+- AWS Cloud Solutions Architect — Amazon Web Services
+- DevOps on AWS — Amazon Web Services
+- IBM DevOps and Software Engineering — IBM
+- Google Project Management — Google
+
+---
+
+## Education
+
+MS Computer Science — Arizona State University  
+*(Distributed Systems · Cloud Computing · In progress)*
+
+Classes Préparatoires Mathematics/Physics — Moulay Abdellah  
+*Top 5% nationally in engineering entrance exams*
