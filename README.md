@@ -3,7 +3,7 @@
 Platform Engineer · Solutions Architect · DevSecOps  
 Building self-provisioning cloud infrastructure and governed AI systems.
 
-→ agenticroam.com · inspiringtrip.com · laqrabtihassan@gmail.com
+→ [agenticroam.com](https://agenticagile.com) · [inspiringtrip.com](https://inspiringtrip.com/) · laqrabtihassan@gmail.com
 
 ---
 
