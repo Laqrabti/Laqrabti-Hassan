@@ -21,7 +21,7 @@ team, or frontend team.
 
 ## Live platforms
 
-### AgenticRoam — agenticroam.com
+### AgenticRoam — [agenticroam.com](https://agenticagile.com)
 Cloud infrastructure automation platform. Enter a domain, 
 choose AWS, Azure, or GCP — get a complete production stack 
 in under 5 minutes.
@@ -44,7 +44,7 @@ in under 5 minutes.
 
 ---
 
-### InspiringTrip — inspiringtrip.com
+### InspiringTrip — [inspiringtrip.com](https://inspiringtrip.com/)
 AI-powered travel platform. Two-sided marketplace: 
 travelers get AI-planned bookable trips, businesses 
 list and get matched to relevant customers automatically.
